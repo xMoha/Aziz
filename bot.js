@@ -263,4 +263,4 @@ ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
    }
    }); 
    
-A7MD.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN);
